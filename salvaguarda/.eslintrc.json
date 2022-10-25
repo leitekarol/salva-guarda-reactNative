@@ -15,7 +15,5 @@
         "project": "tsconfig.json"
     },
     "rules": {
-        "strict-boolean-expressions": "off",
-        "no-extraneous-class": "off"
     }
 }
